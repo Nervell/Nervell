@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 13 years old.<br>📚 I'm currently learning Java, Spring, SQL, HTML and CSS<br>🎯 Goals: Become a competitive software engineer.<br>🎲 Fun fact: I know Russian language alongside with English.</p>
+<p align="left">✨ Creating bugs since 13 years old.<br>📚 I'm currently learning Java and Spring Framework<br>🎯 Goals: Become a competitive software engineer.<br>🎲 Fun fact: I know Russian language alongside with English.</p>
 
 ###
 
@@ -21,13 +21,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
