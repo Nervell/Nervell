@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Bogdan Volobuev, and I'm a college student, who is passionate about computer science.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
