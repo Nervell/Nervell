@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 13 years old.<br>📚 I'm currently learning Java and Spring Framework<br>🎯 Goals: Become a competitive software engineer.<br>🎲 Fun fact: I know Russian language alongside with English.</p>
+<p align="left">✨ Creating bugs since 14 years old.<br>📚 I'm currently learning Java and Spring Framework<br>🎯 Goals: Become a competitive software engineer.<br>🎲 Fun fact: I know Russian language alongside with English.</p>
 
 ###
 
